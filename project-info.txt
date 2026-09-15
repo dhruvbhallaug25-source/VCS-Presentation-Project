@@ -1,0 +1,4 @@
+Version: 1.1
+Purpose: Help Students find, save, and attend campus events.
+Status: Ready for Pilot
+Next Milestone: Publish Orientation Week events.
